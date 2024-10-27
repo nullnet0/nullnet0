@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently working on Minecraft Plugins<br>Learning Java
+hi!
+currently developing AstolfoClient and some exploits
 
 
 ## 🌐 Socials:
