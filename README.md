@@ -14,7 +14,7 @@ currently developing AstolfoClient and some exploits
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotPiotrekDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NotPiotrekDev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=NotPiotrekDev&icon=0&color=0)]
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/notpiotrekdev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/notpiotrekdev) 
